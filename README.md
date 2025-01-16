@@ -8,8 +8,8 @@
 
 Welcome to **Project Pæmon**, a Pokémon-inspired experience that curates a unique companion—your very own Pæmon! This project is a collaborative labor of love by four developers from around the world:
 
-- **Phil** 🖥️ [https://www.linkedin.com/in/philhocombatir/](#)
 - **Sama** 💡 [https://www.linkedin.com/in/noorul-sama-sahel-975586246/](#)
+- **Phil** 🖥️ [https://www.linkedin.com/in/philhocombatir/](#)
 - **Hannah** 🎨 [https://www.linkedin.com/in/hannaherauch/ ](#)
 - **Chan** 🛠️ [https://www.linkedin.com/in/chan-dinh/](#)
 
